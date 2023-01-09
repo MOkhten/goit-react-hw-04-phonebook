@@ -70,6 +70,5 @@ export class App  extends Component {
         onDeleteContact={this.deleteContact}/>
      </Phonebook>
     );
-      
     }
 }
